@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ0Lw4zJ14J9iMY0sEvgAdARoIFF5XTyBhBOGrHAh-8u04G_90FzXnY6TA4RIFsl_ApT3P_v6apKDQVIAtXr8m5I19gaIQEEiEKFLjSICw0b-Z1LtadO2ZvhTjrzBEb7rmVM3Rn0-JGcBAOzSsOLGFaqOici_e4WIPSzal5NI8g49FFt23N31Rsqk-RcE/s320/Snapchat-2131529992.jpg&color=0e75b6&style=flat" jkbatham" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjkbatham" alt="jjkbatham" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkbatham" alt="jjkbatham" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
